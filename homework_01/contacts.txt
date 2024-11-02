@@ -1,0 +1,3 @@
+001;Vasiliy Stopkin;123-45-67;Zavod "Obsalut"
+002;Sergey Podshipnikov;987-65-43;Avtoservis "Razberem-ne-soberem"
+003;Andrey Myasnikov;900-80-70;Kompaniya "Roga i kopyta"
