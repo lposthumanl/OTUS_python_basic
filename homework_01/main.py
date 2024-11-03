@@ -36,5 +36,3 @@ menu_items = show_menu(phone_book_menu, main_menu_title)
 menu_item_choice = menu_items[int(input("Please select menu item. Enter a number: "))]
 if menu_item_choice == "Open file":
     print("Opening the contacts file")
-
-
